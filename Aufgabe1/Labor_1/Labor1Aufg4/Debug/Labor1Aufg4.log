@@ -1,0 +1,17 @@
+﻿  Labor1Aufg4.cpp
+C:\Users\matjes\Studium\ObjectOrientierteSysteme\Labor_1\Labor1Aufg4\Labor1Aufg4.cpp(67,4): warning C4551: Dem Funktionsaufruf fehlt die Argumentliste
+C:\Users\matjes\Studium\ObjectOrientierteSysteme\Labor_1\Labor1Aufg4\Labor1Aufg4.cpp(77,22): error C2059: Syntaxfehler: ")"
+C:\Users\matjes\Studium\ObjectOrientierteSysteme\Labor_1\Labor1Aufg4\Labor1Aufg4.cpp(78,2): error C2143: Syntaxfehler: Es fehlt ";" vor "{"
+C:\Users\matjes\Studium\ObjectOrientierteSysteme\Labor_1\Labor1Aufg4\Labor1Aufg4.cpp(79,2): error C2046: Schlüsselwort "case" ungültig
+C:\Users\matjes\Studium\ObjectOrientierteSysteme\Labor_1\Labor1Aufg4\Labor1Aufg4.cpp(82,2): error C2046: Schlüsselwort "case" ungültig
+C:\Users\matjes\Studium\ObjectOrientierteSysteme\Labor_1\Labor1Aufg4\Labor1Aufg4.cpp(85,2): error C2046: Schlüsselwort "case" ungültig
+C:\Users\matjes\Studium\ObjectOrientierteSysteme\Labor_1\Labor1Aufg4\Labor1Aufg4.cpp(88,2): error C2047: Schlüsselwort "default" ungültig
+C:\Users\matjes\Studium\ObjectOrientierteSysteme\Labor_1\Labor1Aufg4\Labor1Aufg4.cpp(81,3): error C2043: Schlüsselwort "break" ungültig
+C:\Users\matjes\Studium\ObjectOrientierteSysteme\Labor_1\Labor1Aufg4\Labor1Aufg4.cpp(84,3): error C2043: Schlüsselwort "break" ungültig
+C:\Users\matjes\Studium\ObjectOrientierteSysteme\Labor_1\Labor1Aufg4\Labor1Aufg4.cpp(87,3): error C2043: Schlüsselwort "break" ungültig
+C:\Users\matjes\Studium\ObjectOrientierteSysteme\Labor_1\Labor1Aufg4\Labor1Aufg4.cpp(89,3): error C2043: Schlüsselwort "break" ungültig
+C:\Users\matjes\Studium\ObjectOrientierteSysteme\Labor_1\Labor1Aufg4\Labor1Aufg4.cpp(120,9): warning C4551: Dem Funktionsaufruf fehlt die Argumentliste
+C:\Users\matjes\Studium\ObjectOrientierteSysteme\Labor_1\Labor1Aufg4\Labor1Aufg4.cpp(135,3): error C2059: Syntaxfehler: "{"
+C:\Users\matjes\Studium\ObjectOrientierteSysteme\Labor_1\Labor1Aufg4\Labor1Aufg4.cpp(135,3): error C2143: Syntaxfehler: Es fehlt ";" vor "{"
+C:\Users\matjes\Studium\ObjectOrientierteSysteme\Labor_1\Labor1Aufg4\Labor1Aufg4.cpp(155,27): error C2440: "=": "const char [9]" kann nicht in "char *" konvertiert werden
+C:\Users\matjes\Studium\ObjectOrientierteSysteme\Labor_1\Labor1Aufg4\Labor1Aufg4.cpp(155,17): message : Bei der Konvertierung von Zeichenfolgenliteral geht der Konstantenqualifizierer verloren (siehe /Zc:strictStrings)

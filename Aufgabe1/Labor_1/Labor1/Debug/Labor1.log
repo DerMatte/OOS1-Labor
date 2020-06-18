@@ -1,0 +1,4 @@
+﻿  Labor1.cpp
+C:\Users\matjes\Studium\ObjectOrientierteSysteme\Labor_1\Labor1\Labor1.cpp(22,25): warning C4244: "Argument": Konvertierung von "double" in "std::streamsize", möglicher Datenverlust
+C:\Users\matjes\Studium\ObjectOrientierteSysteme\Labor_1\Labor1\Labor1.cpp(26,44): warning C4244: "Argument": Konvertierung von "double" in "std::streamsize", möglicher Datenverlust
+  Labor1.vcxproj -> C:\Users\matjes\Studium\ObjectOrientierteSysteme\Labor_1\Labor1\Debug\Labor1.exe

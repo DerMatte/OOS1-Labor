@@ -5,5 +5,5 @@ using namespace std;
 
 
 int fahrzeug::fahren(double km) {
-  fahrzeug::km += km; 
+  return fahrzeug::km + km;
 }

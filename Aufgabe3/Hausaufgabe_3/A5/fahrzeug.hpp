@@ -1,18 +1,18 @@
 #include "MyString.hpp"
-
+#include <string>
 
 class fahrzeug
 {
 private:
   /* data */
 public:
-  fahrzeug(/* args */);
+  fahrzeug(kz);
   MyString::MyString kz;
   
   long int vin;
   // char* vin[18];
 
-  int km;
+  double km;
 
   int fahren(double km);
 

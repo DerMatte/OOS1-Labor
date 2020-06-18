@@ -1,0 +1,8 @@
+﻿  Kunde.cpp
+  main.cpp
+C:\Users\Leo\source\repos\oos1_hs3_2\oos1_hs3_2\main.cpp(1,1): warning C4005: "_CRT_SECURE_NO_WARNINGS": Makro-Neudefinition
+C:\Users\Leo\source\repos\oos1_hs3_2\oos1_hs3_2\main.cpp : message : Siehe vorherige Definition von "_CRT_SECURE_NO_WARNINGS"
+C:\Users\Leo\source\repos\oos1_hs3_2\oos1_hs3_2\main.cpp(9,13): warning C4326: Der Rückgabetyp von "main" sollte "int" und nicht "void" sein
+C:\Users\Leo\source\repos\oos1_hs3_2\oos1_hs3_2\main.cpp(11,12): warning C4244: "Argument": Konvertierung von "time_t" in "unsigned int", möglicher Datenverlust
+  Code wird generiert...
+  oos1_hs3_2.vcxproj -> C:\Users\Leo\source\repos\oos1_hs3_2\Debug\oos1_hs3_2.exe

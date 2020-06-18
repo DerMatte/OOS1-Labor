@@ -1,0 +1,7 @@
+﻿  MyString.cpp
+C:\Users\lschmitt\source\repos\oos1_hs3_3\oos1_hs3_3\MyString.cpp(125,27): warning C4267: "=": Konvertierung von "size_t" nach "unsigned int", Datenverlust möglich
+C:\Users\lschmitt\source\repos\oos1_hs3_3\oos1_hs3_3\MyString.cpp(140,31): warning C4267: "=": Konvertierung von "size_t" nach "unsigned int", Datenverlust möglich
+  main.cpp
+  Code wird generiert...
+C:\Users\lschmitt\source\repos\oos1_hs3_3\oos1_hs3_3\MyString.cpp(187): warning C4172: Adresse einer lokalen Variablen oder eines temporären Werts ": neu" wird zurückgegeben
+  oos1_hs3_3.vcxproj -> C:\Users\lschmitt\source\repos\oos1_hs3_3\x64\Debug\oos1_hs3_3.exe

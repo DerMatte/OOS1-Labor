@@ -1,0 +1,5 @@
+﻿  main.cpp
+  MyString.cpp
+C:\Users\Leo\source\repos\oos1_hs3_3\oos1_hs3_3\MyString.cpp(172,9): error C2561: "MyString::operator +": Funktion muss einen Wert zurückgeben
+C:\Users\Leo\source\repos\oos1_hs3_3\oos1_hs3_3\MyString.cpp(163): message : Siehe Deklaration von "MyString::operator +"
+  Code wird generiert...
